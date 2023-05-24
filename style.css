@@ -45,7 +45,7 @@ h1, h2 {
     height: 440px;
     justify-content: center;
     box-shadow: 5px 5px 1pc 0px lightgrey;
-    margin: 0;
+    margin: 50px auto;
     border-radius: 15px;
 }
 
